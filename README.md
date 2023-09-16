@@ -8,3 +8,6 @@ This repository contains 3 assignments, and 1 programming project submitted for 
 ### Assignment-1: Binary Search
 ### Assignment-2: Hash Tables
 ### Assignment-3: Divide-n-Conquer
+
+<br><br>
+Certificate Link: https://jovian.com/certificate/MFQTQNZTGY
